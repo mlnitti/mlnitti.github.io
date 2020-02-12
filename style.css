@@ -8,7 +8,7 @@ h1 {
     text-align: center;
 }
 ul.embed {
-    font-family: Arial;
+    font-family: Futura;
     font-size: 15px;
 }    
 ul.main-menu {
@@ -49,7 +49,7 @@ ul.sub-menu a:hover {
     width: 300px;
 }
 p {
-    font-family: Arial;
+    font-family: Futura;
     font-size: 15px;
 }
 li.first {
