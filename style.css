@@ -14,6 +14,9 @@ h2 {
     text-align: left;
     font-family: News Gothic;
 }
+li {
+    font-family: Arial; 
+}
 
 ul.embed {
     font-family: News Gothic;
@@ -60,7 +63,7 @@ ul.sub-menu a:hover {
 }
 p {
     font-family: Myriad;
-    font-size: 10px;
+    font-size: 20px;
 }
 li.first {
     border-left: 3px dotted darkblue;
