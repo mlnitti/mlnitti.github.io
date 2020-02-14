@@ -27,7 +27,7 @@ ul.main-menu {
 }
 ul.main-menu>li {
     display: inline;
-    padding: 1px;
+    padding: 10px;
     border-right: 3px dotted darkblue;
     border-left: 3px dotted darkblue;
 }
