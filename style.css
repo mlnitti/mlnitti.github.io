@@ -5,7 +5,7 @@ body {
 h1 { 
     color: darkblue;
     font-size: 50px;
-    font-family: Arial;
+    font-family: Righteous;
     text-align: center;
 }
 h2 { 
@@ -59,7 +59,7 @@ ul.sub-menu a:hover {
     width: 300px;
 }
 p {
-    font-family: Arial;
+    font-family: Barlow;
     font-size: 20px;
 }
 li.first {
