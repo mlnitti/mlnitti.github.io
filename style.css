@@ -5,14 +5,14 @@ body {
 h1 { 
     color: darkblue;
     font-size: 50px;
-    font-family: Righteous;
+    font-family: Rockwell;
     text-align: center;
 }
 h2 { 
     color: darkblue;
     font-size: 30px;
     text-align: left;
-    font-family: Arial;
+    font-family: Futura;
 }
 
 ul.embed {
@@ -59,7 +59,7 @@ ul.sub-menu a:hover {
     width: 300px;
 }
 p {
-    font-family: Barlow;
+    font-family: Gotham;
     font-size: 20px;
 }
 li.first {
