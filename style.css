@@ -1,5 +1,5 @@
 body {
-    background-color: lightbrown;
+    background-color: black;
     margin: 100px;
 }
 h1 { 
@@ -53,5 +53,5 @@ p {
     font-size: 15px;
 }
 li.first {
-    border-left: 1px solid blue;
+    border-left: 1px dotted black;
 }
