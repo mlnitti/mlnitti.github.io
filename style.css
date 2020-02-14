@@ -12,11 +12,11 @@ h2 {
     color: darkblue;
     font-size: 30px;
     text-align: left;
-    font-family: Futura;
+    font-family: News Gothic;
 }
 
 ul.embed {
-    font-family: Arial;
+    font-family: News Gothic;
     font-size: 15px;
 }    
 ul.main-menu {
@@ -59,7 +59,7 @@ ul.sub-menu a:hover {
     width: 300px;
 }
 p {
-    font-family: Gotham;
+    font-family: NewsGothic;
     font-size: 20px;
 }
 li.first {
