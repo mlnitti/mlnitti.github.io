@@ -12,14 +12,14 @@ h2 {
     color: darkblue;
     font-size: 30px;
     text-align: left;
-    font-family: Helvectica;
+    font-family: Rockwell;
 }
 li {
-    font-family: Museo; 
+    font-family: Play; 
 }
 
 ul.embed {
-    font-family: News Gothic;
+    font-family: Rockwell;
     font-size: 15px;
 }    
 ul.main-menu {
@@ -62,7 +62,7 @@ ul.sub-menu a:hover {
     width: 300px;
 }
 p {
-    font-family: Myriad;
+    font-family: Open Sans;
     font-size: 20px;
 }
 li.first {
