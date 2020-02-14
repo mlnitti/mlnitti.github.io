@@ -1,5 +1,5 @@
 body {
-    background-color: green;
+    background-color: brown;
     margin: 100px;
 }
 h1 { 
@@ -30,12 +30,12 @@ ul.sub-menu {
     list-style-type: none;
     text-align: center;
     padding: 0;
-    font-size: 15px;
+    font-size: 20px;
 }
 ul.sub-menu>li {
     display: inline;
-    padding: 1px;
-    border-right: 1px dotted black;
+    padding: 5px;
+    border-right: 10px dotted black;
 }
 ul.sub-menu a:hover {
     background-color: #ddd;
@@ -50,7 +50,7 @@ ul.sub-menu a:hover {
 }
 p {
     font-family: Arial;
-    font-size: 15px;
+    font-size: 20px;
 }
 li.first {
     border-left: 1px dotted black;
