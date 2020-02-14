@@ -1,5 +1,5 @@
 body {
-    background-color: black;
+    background-color: green;
     margin: 100px;
 }
 h1 { 
@@ -20,7 +20,7 @@ ul.main-menu {
 ul.main-menu>li {
     display: inline;
     padding: 1px;
-    border-right: 1px solid black;
+    border-right: 1px dotted black;
 }
 ul.main-menu a:hover {
     background-color: #ddd;
@@ -35,7 +35,7 @@ ul.sub-menu {
 ul.sub-menu>li {
     display: inline;
     padding: 1px;
-    border-right: 1px solid black;
+    border-right: 1px dotted black;
 }
 ul.sub-menu a:hover {
     background-color: #ddd;
