@@ -29,6 +29,7 @@ ul.main-menu>li {
     display: inline;
     padding: 1px;
     border-right: 3px dotted darkblue;
+    border-left: 3px dotted darkblue;
 }
 ul.main-menu a:hover {
     background-color: #ddd;
@@ -44,6 +45,7 @@ ul.sub-menu>li {
     display: inline;
     padding: 5px;
     border-right: 3px dotted darkblue;
+    border-left: 3px dotted darkblue;
 }
 ul.sub-menu a:hover {
     background-color: #ddd;
