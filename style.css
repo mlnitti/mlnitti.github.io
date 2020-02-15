@@ -65,8 +65,7 @@ p {
     font-family: Calibri;
     font-size: 20px;
     font-color: black
-        border-left: 3px solid darkblue:
-}
+    padding: 3px;
 li.first {
     border-left: 3px dotted darkblue;
 }
