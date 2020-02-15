@@ -26,7 +26,7 @@ ul.main-menu {
     list-style-type: none;
     text-align: center;
     padding: 0;
-    font-size: 20px;
+    font-size: 25px;
 }
 ul.main-menu>li {
     display: inline;
@@ -56,7 +56,7 @@ ul.sub-menu a:hover {
 }
 .bio {
     display: block;
-    margin-left: 500px;
+    margin-left: auto;
     margin-right: auto;
     height: 200px;
     width: 300px;
@@ -64,6 +64,7 @@ ul.sub-menu a:hover {
 p {
     font-family: Calibri;
     font-size: 20px;
+    font-color: white
 }
 li.first {
     border-left: 3px dotted darkblue;
